@@ -15,5 +15,5 @@ Dataset features:
 - **fruitmass**: The average mass of a single fruit.
 - **seeds**: The average number of seeds per fruit.
 
-Kaggle Competition: https://www.kaggle.com/competitions/playground-series-s3e14  
-Kaggle Notebook: https://www.kaggle.com/code/mnokno/wild-blueberry-yield-prediction-eda  
+Kaggle Competition: https://www.kaggle.com/competitions/playground-series-s3e15  
+Kaggle Notebook: https://www.kaggle.com/code/mnokno/ps3e15-eda-imputation-using-mice  
